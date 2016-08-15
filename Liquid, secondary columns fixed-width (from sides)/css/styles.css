@@ -1,0 +1,35 @@
+header {
+	background: #FF6347;
+}
+
+nav {
+	background: #DB7093;
+	width: 300px;
+	float: left;
+}
+
+#sidebar {
+	background: #98FB98;
+	width: 300px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+#content {
+	background: #FFA500;
+	margin-left: 310px;
+	margin-right: 310px;
+}
+
+footer {
+	background: #F5F5F5;
+}
+
+strong {
+	font-size: 20px;
+}
+
+#wrapper {
+	position: relative;
+}

@@ -1,0 +1,26 @@
+
+#header {
+	background: #FFE4C4;
+	width: 100%;
+}
+
+nav, #content, #sidebar {
+	width: 32.6%;
+	background: #FFE4C4;
+	float: left;
+}
+
+#content, #sidebar {
+	margin-left: 1%;
+}
+
+footer {
+	clear: both;
+	margin-top: 0;
+	background: #778899;
+	width: 100%;
+}
+
+strong {
+	font-size: 20px;
+}

@@ -1,0 +1,43 @@
+header {
+	background: #FF6347;
+}
+
+nav {
+	width: 50%;	
+	float: left;
+}
+
+#navigation-content {
+	margin-right: 260px;
+	background: #DB7093;
+}
+
+#sidebar-content {
+	margin-left: 260px;
+	background: #98FB98;
+}
+
+#sidebar {
+	width: 50%;
+	float: right;
+	margin-left: -250px;
+}
+
+#content {
+	background: #FFA500;
+	margin-left: -250px;
+	width: 500px;
+	float: left;
+}
+
+footer {
+	background: #F5F5F5;
+}
+
+strong {
+	font-size: 20px;
+}
+
+#wrapper {
+	position: relative;
+}

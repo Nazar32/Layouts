@@ -1,0 +1,30 @@
+header {
+	background: #CD853F;
+}
+
+header p {
+	font-size: 16px;
+}
+
+nav {
+	background: #FF4500;
+	width: 200px;
+	float: left;
+}
+
+#content {
+	background: #DB7093;
+	margin-left: 200px;
+}
+
+
+footer {
+	background: #AFEEEE;
+}
+
+
+strong {
+	font-size: 20px;
+}
+ 
+
